@@ -1,16 +1,35 @@
-# React + Vite
+# 🌐 React Router Demo Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple demo website built using **React**, **Vite**, and **React Router DOM** to practice routing, navigation, API fetching, and component reusability.  
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🏠 **Home Page** 
+- ℹ️ **About Page**
+- 📞 **Contact Page** 
+- 🧑‍💻 **GitHub Page**
+- ⚖️ **Terms & Conditions** and 🔒 **Privacy Policy** 
+- 🧭 **React Router Navigation**
+- 🌀 **Vite + Tailwind CSS** 
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🏗️ Tech Stack
 
-## Expanding the ESLint configuration
+| Category | Technology |
+| Frontend Framework | [React] |
+| Build Tool | [Vite] |
+| Styling | [Tailwind CSS] |
+| Routing | [React Router DOM] |
+| API | [GitHub REST API] |
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚙️ Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/utpanna-pradhan/react-router-demo.git
+   Navigate to the project folder
+   cd react-router-demo
+2. **Install dependencies**
+    npm install
+3. **Run the development server**
+    npm run dev
